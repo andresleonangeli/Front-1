@@ -1,0 +1,33 @@
+h1 {
+    background-color: #c4c4c4;
+    color: #005677;
+    text-align: center
+  }
+h2 {
+  background-color: #c4c4c4;
+  color: #005677;
+  
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  display: inline-table;
+}
+
+footer {
+  background-color: #005677;
+  color: white;
+  text-align: center;
+}
+#batman{
+    align-content: center !important;
+}
+
+  #header {
+    background: #e5e5e5;
+   align-content: center;
+  }
+
